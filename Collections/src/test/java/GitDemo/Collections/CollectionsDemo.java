@@ -8,6 +8,7 @@ public class CollectionsDemo {
 		System.out.println("Git Demo");
 		
 		System.out.println("Git Demo1");
+		System.out.println("Git Demo");
 
 	}
 
