@@ -10,6 +10,8 @@ public class CollectionsDemo {
 		System.out.println("Git Demo1");
 		
 		String siva;
+		
+		String ram;
 
 	}
 
